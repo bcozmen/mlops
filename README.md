@@ -1,8 +1,7 @@
-MLOps
+# MLOps
 
 A simple MLOps service.
 
-🌐 Website
+## 🌐 Website
 
-Please visit MLOps
- to learn more.
+Please visit [MLOps](https://www.bcozmen.com/mlops/) to learn more.
